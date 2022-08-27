@@ -1,4 +1,7 @@
 <p align="center">
+##ERROR!!!Don't fork this repository
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/SACHIBOT/Black-King/master/KINGMedia/logo.jpg" alt="nz" width="350"/>
 </p>
 <p align="center">
